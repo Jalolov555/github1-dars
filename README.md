@@ -1,0 +1,3 @@
+# Github 1-dars
+## Sayt Jalolov Habibulloh tomonidan 2022-yil yaratilgan
+    Saytning asosiy maqsadi Githubga sayt joylashni o`rganish...
